@@ -1,6 +1,10 @@
 # Vape-V4-Hypixel-Bypasses
 an up-to-date comprehensive guide on the bypasses and detections of Vape V4 Minecraft hacked client, tailored for the Hypixel server. Categories include 'Bypasses', 'Flags', and 'Bans', detailing the use case of each mod. This guide will be updated regularly, ensuring reputable information. 
 
+## Current Status 🔄
+![Status](https://img.shields.io/badge/Status-UP%20TO%20DATE-green)
+Last checked: October 21 2023
+
 Total views: [![HitCount](https://hits.dwyl.com/JasonVinion/Vape-V4-Hypixel-Bypasses.svg?style=flat-square)](http://hits.dwyl.com/JasonVinion/Vape-V4-Hypixel-Bypasses)
 
 Unique Views: [![HitCount](https://hits.dwyl.com/JasonVinion/Vape-V4-Hypixel-Bypasses.svg?style=flat-square&show=unique)](http://hits.dwyl.com/JasonVinion/Vape-V4-Hypixel-Bypasses)
