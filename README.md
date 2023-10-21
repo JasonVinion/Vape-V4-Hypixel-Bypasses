@@ -1,6 +1,8 @@
 # Vape-V4-Hypixel-Bypasses
 an up-to-date comprehensive guide on the bypasses and detections of Vape V4 Minecraft hacked client, tailored for the Hypixel server. Categories include 'Bypasses', 'Flags', and 'Bans', detailing the use case of each mod. This guide will be updated regularly, ensuring reputable information. 
 
+[![ViewCount](https://hits.dwyl.com/JasonVinion/Vape-V4-Hypixel-Bypasses.svg?style=flat-square)](http://hits.dwyl.com/JasonVinion/Vape-V4-Hypixel-Bypasses)
+  
 ## Bypasses
 These cheats are known to bypass Hypixel anti-cheat systems. This means you can use any setting, and it will bypass no matter what.
 
@@ -120,5 +122,3 @@ Using these cheats will result in an immediate or swift ban.
 - **Liability Disclaimer**: It is NOT my fault if you get banned. Detections and anti-cheat systems might change at any moment, and with incorrect settings or misuse, you will face consequences regardless of the guidance provided here.
   
 - **Feedback**: If you notice any inconsistencies, errors, or have suggestions for improvements or additions, kindly let me know. I strive to keep this information updated with the latest changes.
-
-- ![Views:](https://visitor-badge.glitch.me/badge?page_id=JasonVinion.Vape-V4-Hypixel-Bypasses)
