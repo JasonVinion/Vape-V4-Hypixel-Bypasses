@@ -4,7 +4,7 @@ an up-to-date comprehensive guide on the bypasses and detections of Vape V4 Mine
 ## Current Status 🔄
 ![Status](https://img.shields.io/badge/Status-UP%20TO%20DATE-green)
 
-Last checked: October 21, 2023
+Last checked: November 18, 2023
 
 Total views: [![HitCount](https://hits.dwyl.com/JasonVinion/Vape-V4-Hypixel-Bypasses.svg?style=flat-square)](http://hits.dwyl.com/JasonVinion/Vape-V4-Hypixel-Bypasses)
 
